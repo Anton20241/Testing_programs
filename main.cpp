@@ -6,6 +6,7 @@ int check(int got, int expected)
 	{
 		return 1;
 	}
+	return 0;
 }
 
 int summ(int a, int b)
