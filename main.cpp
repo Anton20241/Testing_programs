@@ -15,6 +15,7 @@ int summ(int a, int b)
 }
 
 
+
 int main()
 {
 	int result = 0;
